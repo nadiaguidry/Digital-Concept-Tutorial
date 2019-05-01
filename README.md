@@ -8,3 +8,4 @@ This tutorial allows students to learn the basics of creating HTML/SVG images th
 
 **The audience that is targeted are CS/IT students who are interested in creating HTML/SVG images at a beginner level.**
 
+Click [here](https://github.com/nadiaguidry/Digital-Concept-Tutorial/blob/master/Digital%20Concept%20Project.md) to begin the tutorial!
