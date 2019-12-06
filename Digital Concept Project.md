@@ -30,6 +30,6 @@ A SVG image is "an XML-based vector image format for two-dimensional graphics wi
 
 9. While circles are interesting, some may be interested in creating a variety of shapes. This [link](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes) provides information of how to make even more unique shapes!
 
-10. **ENJOY MAKING SVG IMAGES!! :)**
+10. **ENJOY MAKING SVG IMAGES!!! :)**
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS5oSt8d0Oc6X74lmYEDI_QK6pZan4CvoQ8dKyFEj2KXzslqVXGw)
